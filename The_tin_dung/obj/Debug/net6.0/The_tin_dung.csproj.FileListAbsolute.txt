@@ -1,0 +1,15 @@
+C:\Users\ADMIN\source\repos\The_tin_dung\The_tin_dung\obj\Debug\net6.0\The_tin_dung.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\The_tin_dung\The_tin_dung\obj\Debug\net6.0\The_tin_dung.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\The_tin_dung\The_tin_dung\obj\Debug\net6.0\The_tin_dung.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\The_tin_dung\The_tin_dung\obj\Debug\net6.0\The_tin_dung.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\The_tin_dung\The_tin_dung\obj\Debug\net6.0\The_tin_dung.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\The_tin_dung\The_tin_dung\bin\Debug\net6.0\The_tin_dung.exe
+C:\Users\ADMIN\source\repos\The_tin_dung\The_tin_dung\bin\Debug\net6.0\The_tin_dung.deps.json
+C:\Users\ADMIN\source\repos\The_tin_dung\The_tin_dung\bin\Debug\net6.0\The_tin_dung.runtimeconfig.json
+C:\Users\ADMIN\source\repos\The_tin_dung\The_tin_dung\bin\Debug\net6.0\The_tin_dung.dll
+C:\Users\ADMIN\source\repos\The_tin_dung\The_tin_dung\bin\Debug\net6.0\The_tin_dung.pdb
+C:\Users\ADMIN\source\repos\The_tin_dung\The_tin_dung\obj\Debug\net6.0\The_tin_dung.dll
+C:\Users\ADMIN\source\repos\The_tin_dung\The_tin_dung\obj\Debug\net6.0\refint\The_tin_dung.dll
+C:\Users\ADMIN\source\repos\The_tin_dung\The_tin_dung\obj\Debug\net6.0\The_tin_dung.pdb
+C:\Users\ADMIN\source\repos\The_tin_dung\The_tin_dung\obj\Debug\net6.0\The_tin_dung.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\The_tin_dung\The_tin_dung\obj\Debug\net6.0\ref\The_tin_dung.dll
